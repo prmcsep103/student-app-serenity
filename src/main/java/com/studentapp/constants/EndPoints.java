@@ -16,5 +16,6 @@ public class EndPoints {
     /**
      * This is Endpoints of Authentication api
      */
+    public static final String AUTHENTICATE = "/api";
 
 }
